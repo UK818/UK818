@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Usman Mohammed Kulaha
-- I'm an iOS developer
+- I'm a Native iOS and React Native developer
 - 💞️ I’m open to work and collaborate on projects using my skills and technical know-how.
 - Email: kulahausman@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/usman-mohammed-kulaha/
