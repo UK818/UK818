@@ -1,3 +1,6 @@
+[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UK818)](https://github.com/UK818/github-readme-stats)
+
+
 - 👋 Hi, I’m Usman Mohammed Kulaha
 - I'm a Native iOS and React Native developer
 - 💞️ I’m open to work and collaborate on projects using my skills and technical know-how.
