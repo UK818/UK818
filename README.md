@@ -1,12 +1,26 @@
-[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UK818)](https://github.com/UK818/github-readme-stats)
 
+<h1 align=”center”>
+👋 Hi! I’m Usman Kulaha 👋
+</h1>
 
-- 👋 Hi, I’m Usman Mohammed Kulaha
-- I'm a Native iOS and React Native developer
+<h3>
+  I'm a Native iOS, React and React Native developer
+</h3>
+
+- I build robust mobile and web applications.
 - 💞️ I’m open to work and collaborate on projects using my skills and technical know-how.
-- Email: kulahausman@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/usman-mohammed-kulaha/
 
+**Connect with me:**
+- [Email](kulahausman@gmail.com)
+- [Linked In](https://www.linkedin.com/in/usman-mohammed-kulaha/)
+
+
+
+
+
+[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UK818&count_private=true&theme=merko)](https://github.com/UK818/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UK818&layout=compact&count_private=true)](https://github.com/UK818/github-readme-stats)
 <!---
 UK818/UK818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
