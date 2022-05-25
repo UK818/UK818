@@ -14,6 +14,8 @@
 - 
 - I’m open to work and collaborate on large projects.
 
+💬 Ask me about Swift, Flutter, React Native.
+
 **Connect with me:**
 - [Email](kulahausman@gmail.com)
 - [Linked In](https://www.linkedin.com/in/usman-mohammed-kulaha/)
