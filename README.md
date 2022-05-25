@@ -19,7 +19,7 @@
 
 
 
-[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UK818&count_private=true&theme=merko)](https://github.com/UK818/github-readme-stats)
+<!-- [![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UK818&count_private=true&theme=merko)](https://github.com/UK818/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UK818&layout=compact&count_private=true)](https://github.com/UK818/github-readme-stats)
 <!---
