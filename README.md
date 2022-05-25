@@ -4,12 +4,15 @@
 </h1>
 
 <h3>
-  I'm a Native iOS, React and React Native developer
+  Mobile developer.
 </h3>
+<h4>
+  iOS Native || Flutter || React Native
+  </h4>
 
 - I'm a solution-driven mobile software developer adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. I’m experienced in developing robust and innovative mobile apps that meet high standards.
 - 
-- 💞️ I’m open to work and collaborate on projects using my skills and technical know-how.
+- I’m open to work and collaborate on large projects.
 
 **Connect with me:**
 - [Email](kulahausman@gmail.com)
